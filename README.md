@@ -65,4 +65,4 @@ M2Ssxu7joL1KtsovBuaz524ICuq3Mg9oPQOF8LCPImEqH0j+vw+XBvug+Bedymx0
 
 ### Lab 6
 
-Results : [Screenshot] ()
+Results : [Screenshot] (https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/file-management/Lab6_1.PNG)
