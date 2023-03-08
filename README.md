@@ -4,7 +4,7 @@
 
 Results : [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-1/lab-1.PNG)
 
-### Lab 2
+### Lab 3
 
 
 Results : 
