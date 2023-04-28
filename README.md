@@ -1,10 +1,10 @@
 # os-yr-1
 
-### Lab 1
+## Lab 1
 
 Results : [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-1/lab-1.PNG)
 
-### Lab 3
+## Lab 3
 
 
 Results : 
@@ -63,22 +63,22 @@ M2Ssxu7joL1KtsovBuaz524ICuq3Mg9oPQOF8LCPImEqH0j+vw+XBvug+Bedymx0
 -----END PGP PUBLIC KEY BLOCK-----
 
 
-### Lab 5
+## Lab 5
 Results :
--Read/Write/Execute permissions to everyone
+### Read/Write/Execute permissions to everyone
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/file-management/Lab5_1.PNG)
--Read/Write user | Read group | No permission to outside
+### Read/Write user | Read group | No permission to outside
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/file-management/Lab5_2.PNG)
--Recursive Read/Write permissions for everybody in directory
+### Recursive Read/Write permissions for everybody in directory
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/file-management/Lab5_3.PNG)
 
 
-### Lab 6
+## Lab 6
 Results :
--Create Directory Hierarchy
+### Create Directory Hierarchy
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/Lab6_1.PNG)
--Bash Version
+### Bash Version
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/Lab6_2.PNG)
--System Report File
+### System Report File
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/Lab6_3.PNG)
-[Download systemStats.txt](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/sysDetails/reports/systemStatstxt?raw=true){: .btn .btn-green }
+[Download systemStats.txt](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/sysDetails/reports/systemStats.txt?raw=true)
