@@ -73,9 +73,9 @@ M2Ssxu7joL1KtsovBuaz524ICuq3Mg9oPQOF8LCPImEqH0j+vw+XBvug+Bedymx0
 
 ## Lab 6
 ### Create Directory Hierarchy
-[Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/Lab6_1.PNG)
+[Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/sysDetails/reports/Lab6_1.PNG)
 ### Bash Version
-[Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/Lab6_2.PNG)
+[Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/sysDetails/reports/Lab6_2.PNG)
 ### System Report File
-[Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/Lab6_3.PNG)
+[Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/sysDetails/reports/Lab6_3.PNG)
 [Download systemStats.txt](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/sysDetails/reports/systemStats.txt?raw=true)
