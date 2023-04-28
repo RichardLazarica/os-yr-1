@@ -6,8 +6,7 @@ Results : [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-
 
 ## Lab 3
 
-
-Results : 
+### Result:
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGPjkmsBEACpV/XH7AOcIb7KBMuNISNamoO+wxr7YATxyg4YsCdp0sO2cHJP
@@ -64,7 +63,6 @@ M2Ssxu7joL1KtsovBuaz524ICuq3Mg9oPQOF8LCPImEqH0j+vw+XBvug+Bedymx0
 
 
 ## Lab 5
-Results :
 ### Read/Write/Execute permissions to everyone
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/file-management/Lab5_1.PNG)
 ### Read/Write user | Read group | No permission to outside
@@ -74,7 +72,6 @@ Results :
 
 
 ## Lab 6
-Results :
 ### Create Directory Hierarchy
 [Screenshot](https://github.com/RichardLazarica/os-yr-1/blob/main/Lab-6/lab/Lab6_1.PNG)
 ### Bash Version
